@@ -1,0 +1,13 @@
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+Introducing C# and .NET
+    Indroduction
+    Downloading .NET for Windows, macOS, and Linux
+        .NET CORE SDK (Software Development Kit)
+        .NET CORE Version 2.2 but class should work for future versions
+        Editor - VS Code 
+    Understanding .NET and .NET CORE
+        Two .NET FRameworks
+            .NET - Framework (Windows Only)
+            .NET Core (Linux, Mac, Windows, ARM)
+    Understanding the .NET Runtime and Framework
+        .NET
+            CLR (Common Language Runtime)
+                Runtime
+            FCL (Framework Class Library)
+                Library
+    USing the .NET Command Line Interface
+        cmd: dotnet, mkdir, cd, cls 
+    Creating the First C# Project
+        gradebook
+            ├── src
+            │   └── GradeBook
+            └── test
+    Editing C# COde with Visual Studio COde
+    Running and Building Your Project
+        dotnet restore
+            NuGet packages - similar to pip
+        dotnet build 
+            translate src code into binary
+            .cs files -compliler-> .dll
+            .dll is output of .cs files, is thought of as an assembly
+            bin is short for binary
+            obj file is like __pycache__
+    Saying HEllo with C#
+        want to pass name as a parameter to application
+    Debugging a C# Application
+    Summary
+        Write software to handle bad user input
+        
+
+
+
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\2-Introducing C# and .NET\notes.txt
+
+

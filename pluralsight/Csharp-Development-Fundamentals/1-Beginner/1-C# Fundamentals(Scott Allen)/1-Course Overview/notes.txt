@@ -1,0 +1,12 @@
+.NET framework
+Build a gradebook application
+Define Classes and MEthods
+Error handling
+Object Oriented Programming
+
+Youll be ready to contribute your own projects using C#
+
+Prerequisites:
+    Basic Programminbg Knowledge
+
+    
