@@ -1,23 +1,25 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace GradeBook
 {
     class Program
     {
         static void Main(string[] args)
-        // This is a method, named Main
-        // Inside of the parenthesis of the method we have parameters
-        // every parameter has a type and a name of the parameter
-        // the name of this parameter is args
-        // the type of this parameter is string array, the square brakets dictate array
         {
-            // C# is zero-based indexing
-            // string concatination
+            var grades = new List<double>() {12.7, 10.3, 6.11, 4.1};
+            grades.Add(56.1);
+
+            var result = 0.0;
+            foreach(var number in grades)
+            {
+                result += number;
+            }
+            result /= grades.Count;
+            Console.WriteLine($"The average grade is {result:N1}");
+
             if(args.Length > 0)
             {
-                Console.WriteLine("Hello " + args[0] + "!");
-                // string interpolation
-                // inside of curly braces is an expression
                 Console.WriteLine($"Hello, {args[0]}!");
             }
             else

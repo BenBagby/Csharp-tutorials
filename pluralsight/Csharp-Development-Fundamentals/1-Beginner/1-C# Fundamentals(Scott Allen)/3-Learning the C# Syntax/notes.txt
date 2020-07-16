@@ -1,0 +1,7 @@
+Introduction
+Reviewing your Assignment
+Working with Code Blocks and Statements
+Adding Nubers and Creating Arrays
+Looping through ArraysUsing a List
+Computing and Formatting the Result
+Summary
