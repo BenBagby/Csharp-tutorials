@@ -1,0 +1,19 @@
+Introduction
+Reference Types and Value Types
+    Refernce Types
+    Value Types
+        Integers. floats
+Creating a Solution File
+Testing Object References
+Referencing Different Objects
+Passing Parameters by Value
+Returning Object References
+Passing Prameters by Reference
+Working with Value Types
+Value Type Parameters
+Looking for Reference Types and Value Types
+The Special Case Strings in .NET
+Taking Advantage of Garbage Collection
+Summary
+
+C:\Users\Benba\Csharp-tutorials\pluralsight\Csharp-Development-Fundamentals\1-Beginner\1-C# Fundamentals(Scott Allen)\gradebook
